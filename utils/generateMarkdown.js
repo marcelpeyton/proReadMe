@@ -3,7 +3,7 @@
 function renderLicenseBadge(license) {
   if(!Object.is(license, null)||!Object.is(license, undefined)){
     const replaceSpace = license.replace(/ +/gm, "_");
-    return `![alt text](https://img.shields.io/badge/License-${replaceSpace}-blue)`;
+    return `https://img.shields.io/badge/License-${replaceSpace}-blue`;
   }else{
     return ""
   }
