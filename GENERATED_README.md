@@ -1,8 +1,7 @@
-# Master Hello World 
-![alt text](https://img.shields.io/badge/License-MIT-blue)
+#  <img src="![alt text](https://img.shields.io/badge/License-Academic_Free_License-blue)" style="align = right"></img>
 
 ## Description
-This is the ultimate program. It knows how to say hello to the Entetire WROLD
+
 
 ## Table of Contents
 
@@ -18,25 +17,25 @@ This is the ultimate program. It knows how to say hello to the Entetire WROLD
   
 
 ## Installation
-Cloneing the GitHUB then ```npm i```
+
 
 ## Usage
-Use this program any tme you need to hear a good greeting from all around the wolrd simply ```node index.js```
+
 
 ## License
-Distributed under the MIT. See https://opensource.org/license/mit for more information
+Distributed under the Academic Free License. See https://opensource.org/license/afl-3-0-php for more information
 
 ## Contributing
-None given
+
 
 ## Tests
-None given
+
 
 ## Questions
-If you have any questions please contact me at sampleemail@email.com.
+If you have any questions please contact me at .
 GitHub info
-Username: samplegithub 
-Link:https://github.com/samplegithub
+Username:  
+Link:https://github.com/
 
   
   
