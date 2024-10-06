@@ -1,4 +1,4 @@
-# Hi! <img src="https://img.shields.io/badge/License-Academic_Free_License-blue" style="float = right"></img>
+# Hi! <img src="https://img.shields.io/badge/License-Academic_Free_License-blue" style="float: right"></img>
 
 ## Description
 
