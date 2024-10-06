@@ -1,4 +1,4 @@
-# Hi! <img src="https://img.shields.io/badge/License-Academic_Free_License-blue" style="align = right"></img>
+# HI! <img src="https://img.shields.io/badge/License-Academic_Free_License-blue" style="float = right></img>
 
 ## Description
 
@@ -36,3 +36,6 @@ If you have any questions please contact me at .
 GitHub info
 Username:  
 Link:https://github.com/
+
+  
+  
