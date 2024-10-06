@@ -1,7 +1,7 @@
-# Node <img align="right" src="https://img.shields.io/badge/License-Academic_Free_License-blue"></img>
+# Hello World <img align="right" src="https://img.shields.io/badge/License-MIT-blue"></img>
 
 ## Description
-
+This is a sample program to demostrate the Professional Read Me creator
 
 ## Table of Contents
 
@@ -17,25 +17,25 @@
   
 
 ## Installation
-
+No install provided
 
 ## Usage
-
+No usage provided
 
 ## License
-Distributed under the Academic Free License. See https://opensource.org/license/afl-3-0-php for more information
+Distributed under the MIT. See https://opensource.org/license/mit for more information
 
 ## Contributing
-
+Only me
 
 ## Tests
-
+No test provided
 
 ## Questions
-If you have any questions please contact me at .
+If you have any questions please contact me at samplegithub@email.com.
 GitHub info
-Username:  
-Link:https://github.com/
+Username: samplegithub 
+Link:https://github.com/samplegithub
 
   
   
