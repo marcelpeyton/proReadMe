@@ -12,11 +12,10 @@ This small program creates the correct formatting for a professional README with
 </ol>
 
 ## Installation
-This program relies on node. Please refer here: https://nodejs.org/en/learn/getting-started/how-to-install-nodejs. After doing so clone and follow these steps:
+This program relies on node. Please refer here: https://nodejs.org/en/learn/getting-started/how-to-install-nodejs. After doing so clone and execute this command to initialize:
 ```
 npm i
 ```
-To Initialize. 
 ## Usage
 Use this to make a well structured README.md file for GitHub repositories 
 ```
