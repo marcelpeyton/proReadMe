@@ -2,7 +2,9 @@
 ![alt text](https://img.shields.io/badge/License-Academic_Free_License-blue)
 
 ## Description
-
+```
+npm i
+```
 
 ## Table of Contents
 
