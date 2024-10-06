@@ -54,7 +54,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   const lBadge = renderLicenseBadge(data.license)
   const lSect = renderLicenseSection(data.license)
-  const readMEData = `# ${data.title} <img src="${lBadge}" style="align = right"></img>\n\n## Description\n${data.description}\n\n## Table of Contents\n
+  const readMEData = `# ${data.title} <img src="${lBadge}" style="float = right></img>\n\n## Description\n${data.description}\n\n## Table of Contents\n
 <ol>
   <li><a href="#Installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
