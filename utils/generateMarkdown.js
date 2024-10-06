@@ -54,7 +54,17 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   const lBadge = renderLicenseBadge(data.license)
   const lSect = renderLicenseSection(data.license)
-  const readMEData = `# ${data.title} \n${lBadge}\n\n## Description\n${data.description}\n\n## Table of Contents\n[Installation](##Installation)\n\n[Usage](##Usage)\n\n[License](##License)\n\n[Contributing](##Contributing)\n\n[Tests](##Tests)\n\n[Questions](##Questions)\n\n## Installation\n${data.installation}\n\n## Usage\n${data.usage}\n\n## License\n${lSect}\n\n## Contributing\n${data.contributing}\n\n## Tests\n${data.tests}\n\n## Questions\nIf you have any questions please contact me at ${data.email}.\nGitHub info\nUsername: ${data.github} \nLink:https://github.com/${data.github}\n<`
+  const readMEData = `# ${data.title} \n${lBadge}\n\n## Description\n${data.description}\n\n## Table of Contents\n
+<ol>
+  <li><a href="#Installation">Installation</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#tests">Tests</a></li>
+  <li><a href="#questions">Questions</a></li>
+</ol>
+  \n\n## Installation\n${data.installation}\n\n## Usage\n${data.usage}\n\n## License\n${lSect}\n\n## Contributing\n${data.contributing}\n\n## Tests\n${data.tests}\n\n## Questions\nIf you have any questions please contact me at ${data.email}.\nGitHub info\nUsername: ${data.github} \nLink:https://github.com/${data.github}\n<`
 
   return `${readMEData}
   

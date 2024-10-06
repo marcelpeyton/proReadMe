@@ -1,42 +1,42 @@
-# Hello World 
-![alt text](https://img.shields.io/badge/License-MIT-blue)
+#  
+![alt text](https://img.shields.io/badge/License-Academic_Free_License-blue)
 
 ## Description
-Saying hello to the entire world
+
 
 ## Table of Contents
-[Installation](##Installation)
 
-[Usage](##Usage)
-
-[License](##License)
-
-[Contributing](##Contributing)
-
-[Tests](##Tests)
-
-[Questions](##Questions)
+<ol>
+  <li><a href="#Installation">Installation</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#license">License</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#tests">Tests</a></li>
+  <li><a href="#questions">Questions</a></li>
+</ol>
+  
 
 ## Installation
-Node index.js
+
 
 ## Usage
-Just to say hello!
+
 
 ## License
-Distributed under the MIT. See https://opensource.org/license/mit for more information
+Distributed under the Academic Free License. See https://opensource.org/license/afl-3-0-php for more information
 
 ## Contributing
-The world
+
 
 ## Tests
-say hi!
+
 
 ## Questions
-If you have any questions please contact me at marcel-p@outlook.com.
+If you have any questions please contact me at .
 GitHub info
-Username: marcelpeyton 
-Link:https://github.com/marcelpeyton
+Username:  
+Link:https://github.com/
 <
   
   
