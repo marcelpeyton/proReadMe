@@ -25,7 +25,7 @@ node index.js
 To run the command line questionnaire. A sample generated README is already provided. GENERATED_README.md will be overridden on each run of index.js.
 
 ## License
-Distributed under the MIT Liscense. See https://opensource.org/license/mit and LISCENSE.txt for more information
+Distributed under the MIT Liscense. See https://opensource.org/license/mit and `LISCENSE.txt` for more information
 
 ## Video Walkthrough:
 
