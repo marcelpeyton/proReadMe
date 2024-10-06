@@ -5,12 +5,18 @@ This small program creates the correct formatting for a professional README with
 
 ## Table of Contents
 <ol>
+  <li><a href="#Technologies-used">Technologies used</a></li>
   <li><a href="#Installation">Installation</a></li>
-  <li><a href="#usage">Usage</a></li>
+  <li><a href="#usage">Usage</a></li>  
   <li><a href="#license">License</a></li>
   <li><a href="#video-walkthrough">Video Walkthrough</a></li>
 </ol>
 
+## Technologies used
+- Node Inquirer
+- Node
+- Javascript
+- Node File Systems
 ## Installation
 This program relies on node. Please refer here: https://nodejs.org/en/learn/getting-started/how-to-install-nodejs. After doing so clone and execute this command to initialize:
 ```
