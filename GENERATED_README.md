@@ -1,4 +1,4 @@
-# Node <img "style="float: right;" src="https://img.shields.io/badge/License-Academic_Free_License-blue></img>
+# Node <img "style="float: right;" src="https://img.shields.io/badge/License-Academic_Free_License-blue"></img>
 
 ## Description
 
