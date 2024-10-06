@@ -1,7 +1,7 @@
-# Hello World <img align="right" src="https://img.shields.io/badge/License-MIT-blue"></img>
+# Hello World! <img align="right" src="https://img.shields.io/badge/License-MIT-blue"></img>
 
 ## Description
-This is a sample program to demostrate the Professional Read Me creator
+This is a sample github readme to show off Professional README creator
 
 ## Table of Contents
 
@@ -10,32 +10,31 @@ This is a sample program to demostrate the Professional Read Me creator
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
   <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#contact">Contact</a></li>
   <li><a href="#tests">Tests</a></li>
   <li><a href="#questions">Questions</a></li>
 </ol>
   
 
 ## Installation
-No install provided
+No install given
 
 ## Usage
-No usage provided
+No usage given
 
 ## License
 Distributed under the MIT. See https://opensource.org/license/mit for more information
 
 ## Contributing
-Only me
+No contributors given
 
 ## Tests
-No test provided
+No tests given
 
 ## Questions
-If you have any questions please contact me at samplegithub@email.com.
+If you have any questions please contact me at sample@email.com.
 GitHub info
-Username: samplegithub 
-Link:https://github.com/samplegithub
+Username: sample 
+Link: https://github.com/sample
 
   
   
