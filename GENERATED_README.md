@@ -36,6 +36,3 @@ If you have any questions please contact me at .
 GitHub info
 Username:  
 Link:https://github.com/
-
-  
-  
