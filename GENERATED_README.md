@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-<ol>
+<ul>
   <li><a href="#Installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
@@ -14,7 +14,7 @@
   <li><a href="#contact">Contact</a></li>
   <li><a href="#tests">Tests</a></li>
   <li><a href="#questions">Questions</a></li>
-</ol>
+</ul>
   
 
 ## Installation
