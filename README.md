@@ -8,7 +8,7 @@ This small program creates the correct formatting for a professional README with
   <li><a href="#Installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#license">License</a></li>
-  <li><a href="#videowalkthrough">Video Walkthrough</a></li>
+  <li><a href="#video-walkthrough">Video Walkthrough</a></li>
 </ol>
 
 ## Installation
